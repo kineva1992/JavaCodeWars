@@ -18,7 +18,7 @@ public class BinaryArrayToNumber {
     Testing: [1, 0, 1, 1] ==> 11*/
 
     public static int ConvertBinaryArrayToInt(List<Integer> binary) {
-        int i = 0,p = 0;
+        int i = 0;
 
         for(int index : binary)
             i = i << 1 | index;
