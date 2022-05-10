@@ -1,4 +1,4 @@
-package com.Test;
+package com.Test.ky8;
 
 import com.ky8.CalculateAverage;
 import org.junit.Test;

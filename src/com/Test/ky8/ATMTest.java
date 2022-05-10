@@ -1,4 +1,4 @@
-package com.Test;
+package com.Test.ky8;
 
 import com.ky7.ATM;
 import org.junit.Test;

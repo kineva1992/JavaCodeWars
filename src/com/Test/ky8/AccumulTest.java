@@ -1,4 +1,4 @@
-package com.Test;
+package com.Test.ky8;
 
 import static org.junit.Assert.*;
 
