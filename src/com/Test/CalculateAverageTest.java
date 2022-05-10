@@ -1,9 +1,8 @@
-package com.Test.ky7;
+package com.Test;
 
-import com.ky7.CalculateAverage;
+import com.ky8.CalculateAverage;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
-import org.junit.runners.JUnit4;
 
 public class CalculateAverageTest {
 
