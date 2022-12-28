@@ -3,16 +3,8 @@ package com.ky7;
 import java.util.ArrayList;
 import java.util.Collections;
 
- abstract class FrequenJ{
 
-    int count = 0;
-
-     int intmostFrequentItemCount(){
-        return count;
-     }
-}
-
-public abstract class Frequent extends FrequenJ {
+public abstract class Frequent {
 
 
     public static int mostFrequentItemCount(int[] collection) {
