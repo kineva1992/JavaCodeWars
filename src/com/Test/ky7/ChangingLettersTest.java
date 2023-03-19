@@ -3,7 +3,7 @@ package com.Test.ky7;
 import org.junit.Test;
 import java.util.Random;
 import static org.junit.Assert.*;
-import com.ky7.ChangingLetters;
+import com.ky7.*;
 
 public class ChangingLettersTest {
 
